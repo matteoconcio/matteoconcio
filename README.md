@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @matteoconcio, I'm a computer engineering student
 - 👀 I’m interested in computer architecture and programming 
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java and Python
+- 📫 How to reach me: e-mail: concio.matteo@outlook.it - IG: @matteo_concio 
 
 <!---
 matteoconcio/matteoconcio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
