@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matteoconcio, I'm a computer engineering student
 - 👀 I’m interested in computer architecture and programming 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: e-mail: concio.matteo@outlook.it - IG: @matteo_concio 
 
 <!---
